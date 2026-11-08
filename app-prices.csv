@@ -1,0 +1,11 @@
+slug,name,model,best_for,launch_year,rating,reviews_m,price_usd_month
+tinder,"Tinder",freemium,casual,2012,4.4,9.14,24.99
+badoo,"Badoo",freemium,chat,2006,4.2,6.64,
+bumble,"Bumble",freemium,serious,2014,4.2,1.6,39.99
+hinge,"Hinge",freemium,serious,2012,3.8,0.47,24.99
+okcupid,"OkCupid",freemium,international,2004,4,0.68,34.99
+match,"Match",paid,seniors,1995,3.2,0.15,
+pof,"Plenty of Fish",freemium,chat,2003,3.6,1.68,9.99
+happn,"happn",freemium,casual,2014,4.3,,
+eharmony,"eHarmony",freemium,serious,2000,,,
+parship,"Parship",freemium,serious,2000,,,
