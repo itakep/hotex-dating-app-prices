@@ -1,0 +1,116 @@
+{
+    "dataset": "hotex-dating-app-prices",
+    "version": 1,
+    "snapshot": "2026-10",
+    "built": "2026-11-07",
+    "license": "Data: free to cite with attribution to Hotex.org and the snapshot date.",
+    "source": "Public App Store & Google Play listings and vendor pricing pages; see https://hotex.org/methodology/",
+    "homepage": "https://hotex.org/research/dating-app-prices/",
+    "fields": {
+        "rating": "Public store star rating, one decimal (Google Play US; happn from the US App Store).",
+        "reviews_m": "Approximate public review count in millions on the same storefront.",
+        "price_usd_month": "Listed monthly USD price of the premium tier; null when no figure could be verified."
+    },
+    "apps": [
+        {
+            "slug": "tinder",
+            "name": "Tinder",
+            "model": "freemium",
+            "best_for": "casual",
+            "launch_year": 2012,
+            "rating": 4.4,
+            "reviews_m": 9.14,
+            "price_usd_month": 24.99
+        },
+        {
+            "slug": "badoo",
+            "name": "Badoo",
+            "model": "freemium",
+            "best_for": "chat",
+            "launch_year": 2006,
+            "rating": 4.2,
+            "reviews_m": 6.64,
+            "price_usd_month": null
+        },
+        {
+            "slug": "bumble",
+            "name": "Bumble",
+            "model": "freemium",
+            "best_for": "serious",
+            "launch_year": 2014,
+            "rating": 4.2,
+            "reviews_m": 1.6,
+            "price_usd_month": 39.99
+        },
+        {
+            "slug": "hinge",
+            "name": "Hinge",
+            "model": "freemium",
+            "best_for": "serious",
+            "launch_year": 2012,
+            "rating": 3.8,
+            "reviews_m": 0.47,
+            "price_usd_month": 24.99
+        },
+        {
+            "slug": "okcupid",
+            "name": "OkCupid",
+            "model": "freemium",
+            "best_for": "international",
+            "launch_year": 2004,
+            "rating": 4,
+            "reviews_m": 0.68,
+            "price_usd_month": 34.99
+        },
+        {
+            "slug": "match",
+            "name": "Match",
+            "model": "paid",
+            "best_for": "seniors",
+            "launch_year": 1995,
+            "rating": 3.2,
+            "reviews_m": 0.15,
+            "price_usd_month": null
+        },
+        {
+            "slug": "pof",
+            "name": "Plenty of Fish",
+            "model": "freemium",
+            "best_for": "chat",
+            "launch_year": 2003,
+            "rating": 3.6,
+            "reviews_m": 1.68,
+            "price_usd_month": 9.99
+        },
+        {
+            "slug": "happn",
+            "name": "happn",
+            "model": "freemium",
+            "best_for": "casual",
+            "launch_year": 2014,
+            "rating": 4.3,
+            "reviews_m": null,
+            "price_usd_month": null
+        },
+        {
+            "slug": "eharmony",
+            "name": "eHarmony",
+            "model": "freemium",
+            "best_for": "serious",
+            "launch_year": 2000,
+            "rating": null,
+            "reviews_m": null,
+            "price_usd_month": null
+        },
+        {
+            "slug": "parship",
+            "name": "Parship",
+            "model": "freemium",
+            "best_for": "serious",
+            "launch_year": 2000,
+            "rating": null,
+            "reviews_m": null,
+            "price_usd_month": null
+        }
+    ]
+}
